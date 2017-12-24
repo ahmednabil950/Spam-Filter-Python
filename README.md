@@ -10,3 +10,7 @@ A spam filter is a program that is used to detect unsolicited and unwanted email
 * Python 3.x
 * Anaconda Package 3.x
 * Sklearn library for training
+
+
+# What is this repo about 
+This repo contains python spam filter implementation from scratch, the used dataset is available [here](http://www.aueb.gr/users/ion/data/lingspam_public.tar.gz), the data is not preprocessed, so preprocessing is made from scratch too. the trining algorithm is SVM and logistic regression.
