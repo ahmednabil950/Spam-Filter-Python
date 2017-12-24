@@ -1,2 +1,12 @@
 # Spam-Filter-Python
 Spam filter program implemented with both python from scratch and sklearn tool
+
+
+# What is Spam Filter
+A spam filter is a program that is used to detect unsolicited and unwanted email and prevent those messages from getting to a user's inbox. Like other types of filtering programs, a spam filter looks for certain criteria on which it bases judgments. For example, the simplest and earliest versions (such as the one available with Microsoft's Hotmail) can be set to watch for particular words in the subject line of messages and to exclude these from the user's inbox. This method is not especially effective, too often omitting perfectly legitimate messages (these are called false positives) and letting actual spam through.
+
+
+# Requirements:
+* Python 3.x
+* Anaconda Package 3.x
+* Sklearn library for training
