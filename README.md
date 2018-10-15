@@ -2,9 +2,9 @@
 Spam filter program implemented with both python from scratch and sklearn tool
 
 <br><br>
-
-<img align="center" src="https://github.com/ahmednabil950/Spam-Filter-Python/blob/master/img/spam.jpg">
-
+<div style="text-align:center">
+  <img align="center" src="https://github.com/ahmednabil950/Spam-Filter-Python/blob/master/img/spam.jpg">
+<div>
 <br><br><br>
 
 ### What is Spam Filter
